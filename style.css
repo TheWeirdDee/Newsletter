@@ -57,7 +57,7 @@ input[type=submit]:hover{
     box-shadow: 5px 5px 5px rgba(26, 26, 112);
 }
 i{
-    color: rgb(255, 81, 0);
+    color: rgba(255, 81, 0, 0.938);
 }
 
 .second{
